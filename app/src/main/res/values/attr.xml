@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="color" name="colorVLineCenter"/>
+    <attr format="color" name="colorAddIcon"/>
+    <attr format="color" name="colorVeryLowPriority"/>
+    <attr format="color" name="colorLowPriority"/>
+    <attr format="color" name="colorMediumPriority"/>
+    <attr format="color" name="colorHighPriority"/>
+    <attr format="color" name="colorUrgentPriority"/>
+</resources>

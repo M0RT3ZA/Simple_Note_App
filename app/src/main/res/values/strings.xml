@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Simple Note App</string>
+    <string name="add_new_note">Add new note</string>
+    <string name="save_note">Save Note</string>
+    <string name="enter_note_title">Enter Note Title (100 Characters Max)</string>
+    <string name="enter_the_note_here">Enter The note here…</string>
+    <string name="note_deleted">Note Deleted</string>
+    <string name="delete_all_notes">Delete All Notes</string>
+    <string name="deleted_message">All Notes Are Deleted!</string>
+    <string name="note_added">Note Added Successfully.</string>
+    <string name="note_not_added">Note Not Saved.</string>
+    <string name="empty_warning">Title or Note should not be Empty!</string>
+    <string name="note_updated">Note Updated Successfully.</string>
+    <string name="undo">Undo</string>
+    <string name="deleting">Deleting…</string>
+    <string-array name="priorities">
+        <item>Very Low</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Urgent</item>
+    </string-array>
+
+</resources>
